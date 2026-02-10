@@ -1,0 +1,8 @@
+{
+  "functions": {
+    "api/quote.js": {
+      "maxDuration": 60,
+      "memory": 256
+    }
+  }
+}
